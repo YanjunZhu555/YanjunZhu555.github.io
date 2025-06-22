@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A dual-population and three-stage constrained multi-objective evolutionary algorithm based on 
+alternative evolution and degeneration"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
